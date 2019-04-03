@@ -146,4 +146,5 @@ waiting for enemy's attack...
 ## Bonus
 Create a navy in Ncurses
 
+### Screenshot
 <img width="146" alt="navy" src="https://user-images.githubusercontent.com/33022684/55513619-715bb800-5666-11e9-8606-4f64553cd180.png">
