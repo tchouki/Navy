@@ -79,7 +79,7 @@ attack:
 [...]
 ```
 
-###Second Player
+### Second Player
 
 ```
 my_pid: 28825
